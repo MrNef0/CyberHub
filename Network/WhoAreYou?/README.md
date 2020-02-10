@@ -29,8 +29,6 @@ We can remember from the hint that "Only root can talk to me", so we enter root
 
 Wait a few seconds ...
 
-<br />
-
 ![flag](4.JPG)
 
 <br />
