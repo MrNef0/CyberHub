@@ -29,9 +29,13 @@ We can remember from the hint that "Only root can talk to me", so we enter root
 
 Wait a few seconds ...
 
-Congratulations :)
+<br />
 
 ![flag](4.JPG)
+
+<br />
+
+Congratulations :)
 
 <br />
 <br />
