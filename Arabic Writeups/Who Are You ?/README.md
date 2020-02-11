@@ -15,6 +15,7 @@ Netcatالـ
 <br />
 لذا نجرب استخدام الأمر في تيرمينال لينكس
 
+<br />
 
 ![source](1.JPG)
 
@@ -25,6 +26,8 @@ Netcatالـ
 "Who Are You?" 
 <br />
 وتنتظر إدخال
+ 
+ <br />
  
 ![php](2.JPG)
 
@@ -37,6 +40,8 @@ Netcatالـ
 لذا نُدخل
 <br />
 root 
+
+<br />
 
 ![source](3.JPG)
 
