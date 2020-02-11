@@ -52,5 +52,5 @@ root
 <br />
 
 ```
-**Flag** :  CYBERHUB {curi0sity_ki11s_ne7cat}
+Flag :  CYBERHUB {curi0sity_ki11s_ne7cat}
 ```
