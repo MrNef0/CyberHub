@@ -1,4 +1,4 @@
-# Who Are You?
+# Who Are You? - من أنت؟
 
 Only root can talk to me, no one else
 
@@ -6,7 +6,7 @@ nc 52.49.52.189 8888
 
 Flag format is CYBERHUB{...}
 
-# Write up
+# Write up - الحل
 <br />
 
 التلميح زودنا برقم آي بي وبورت وذكر أمر لأداة
