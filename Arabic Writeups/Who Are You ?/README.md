@@ -9,7 +9,7 @@ Flag format is CYBERHUB{...}
 # Write up
 <br />
 
-The hint gave us an IP & Port and mentioned NCAT command (nc), so we try to use it on linux.
+التلميح زودنا برقم آي بي وبورت وذكر أمر لأداة الـNCAT, لذا نجرب استخدام الأمر في لينكس
 
 ![source](1.JPG)
 
