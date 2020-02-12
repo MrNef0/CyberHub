@@ -10,7 +10,7 @@ Flag format CYBERHUB{...}
 التلميح زودنا بصورة وذكر ان هنالك رسالة مخفية بداخلها ويجب علينا البحث عنها
 <br />
 
-![source](7.JPG)
+![source](7.jpg)
 
 <br />
 
@@ -35,5 +35,5 @@ Stegsolve
 <br />
 
 ```
-Flag :  CYBERHUB {curi0sity_ki11s_ne7cat}
+Flag :  CYBERHUB {y0u_f0und_m3_@_7h4_end_:D}
 ```
