@@ -1,57 +1,44 @@
-# Who Are You? - من أنت؟
+# Faces - وجوه
 
-Only root can talk to me, no one else
+You may see many faces, try to turn them
 
-nc 52.49.52.189 8888
+http://52.49.52.189:8889/faces/
 
 Flag format is CYBERHUB{...}
 
 # Write up - الحل
 <br />
 
-التلميح زودنا برقم آي بي وبورت وذكر أمر لأداة
+ندخل للموقع ونفتح مصدر الموقع او الـ
 <br />
-Netcatالـ
+Page Source
 <br />
-لذا نجرب استخدام الأمر في تيرمينال لينكس
+
+![source](9.JPG)
 
 <br />
 
-![source](1.JPG)
-
+ندخل على
 <br />
-
-بعد استخدامنا للاداة على الآي بي المُعطى, نلاحظ رسالة تنبثق
+roll.js
 <br />
-"Who Are You?" 
-<br />
-وتنتظر إدخال
  
- <br />
- 
-![php](2.JPG)
+![php](10.JPG)
 
 <br />
 
-نستطيع ان نتذكر من التلميح أن الرووت هو الوحيد الذي يستطيع التحدث إليه 
+نستطيع ان نلاحظ ان هنالك متسع للنزول لآخر الصفحة مع أن السكربت منتهي! 
 <br />
-"Only root can talk to me" 
-<br />
-لذا نُدخل
-<br />
-root 
+
+
+![source](11.JPG)
 
 <br />
 
-![source](3.JPG)
-
+ننزل لآخر الصفحة
 <br />
 
-.. انتظر قليلاً
-
-<br />
-
-![flag](4.JPG)
+![flag](12.JPG)
 
 <br />
 
@@ -61,5 +48,5 @@ root
 <br />
 
 ```
-Flag :  CYBERHUB {curi0sity_ki11s_ne7cat}
+Flag :  CYBERHUB{cm0n_i7s_3a$y_ãƒ½à¼¼àºˆÙ„Íœàºˆà¼½ï¾‰}
 ```
