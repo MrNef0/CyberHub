@@ -1,59 +1,34 @@
-# Who Are You? - من أنت؟
+# From the BASE - من القاعدة
 
-Only root can talk to me, no one else
+You received the following encrypted message from the base station number 64: Q1lCRVJIVUJ7eTB1X2p1czdfJDdhcjdlZH0=
 
-nc 52.49.52.189 8888
+decrypt the message.
 
 Flag format is CYBERHUB{...}
 
 # Write up - الحل
 <br />
 
-التلميح زودنا برقم آي بي وبورت وذكر أمر لأداة
+التلميح زودنا برسالة مشفرة وذكر انها من المحطة رقم 64
 <br />
-Netcatالـ
+ومن التلميح نستطيع الاستنتاج بأن الرسالة مشفرة بتشفير من نوع
 <br />
-لذا نجرب استخدام الأمر في تيرمينال لينكس
+Base64
 
 <br />
 
-![source](1.JPG)
+![source](5.JPG)
 
 <br />
 
-بعد استخدامنا للاداة على الآي بي المُعطى, نلاحظ رسالة تنبثق
+الان نستطيع فك التشفير بإستخدام أي اداة لفك التشفير
 <br />
-"Who Are You?" 
-<br />
-وتنتظر إدخال
+
  
- <br />
- 
-![php](2.JPG)
+![php](6.JPG)
 
 <br />
 
-نستطيع ان نتذكر من التلميح أن الرووت هو الوحيد الذي يستطيع التحدث إليه 
-<br />
-"Only root can talk to me" 
-<br />
-لذا نُدخل
-<br />
-root 
-
-<br />
-
-![source](3.JPG)
-
-<br />
-
-.. انتظر قليلاً
-
-<br />
-
-![flag](4.JPG)
-
-<br />
 
 مبروك :)
 
@@ -61,5 +36,5 @@ root
 <br />
 
 ```
-Flag :  CYBERHUB {curi0sity_ki11s_ne7cat}
+Flag :  CYBERHUB{y0u_jus7_$7ar7ed}
 ```
