@@ -1,59 +1,33 @@
-# Who Are You? - من أنت؟
+# The End - النهاية
 
-Only root can talk to me, no one else
+A writer sent you a picture, and he hid a message inside, find the message.
 
-nc 52.49.52.189 8888
-
-Flag format is CYBERHUB{...}
+Flag format CYBERHUB{...}
 
 # Write up - الحل
 <br />
 
-التلميح زودنا برقم آي بي وبورت وذكر أمر لأداة
+التلميح زودنا بصورة وذكر ان هنالك رسالة مخفية بداخلها ويجب علينا البحث عنها
 <br />
-Netcatالـ
-<br />
-لذا نجرب استخدام الأمر في تيرمينال لينكس
+
+![source](7.JPG)
 
 <br />
 
-![source](1.JPG)
-
+نستعمل اداة 
 <br />
-
-بعد استخدامنا للاداة على الآي بي المُعطى, نلاحظ رسالة تنبثق
+Stegsolve
 <br />
-"Who Are You?" 
-<br />
-وتنتظر إدخال
- 
+لكشف أي معلومات مخفية داخل الصورة
  <br />
+ (Steganography)
+  <br />
  
-![php](2.JPG)
+![php](8.JPG)
 
 <br />
 
-نستطيع ان نتذكر من التلميح أن الرووت هو الوحيد الذي يستطيع التحدث إليه 
-<br />
-"Only root can talk to me" 
-<br />
-لذا نُدخل
-<br />
-root 
-
-<br />
-
-![source](3.JPG)
-
-<br />
-
-.. انتظر قليلاً
-
-<br />
-
-![flag](4.JPG)
-
-<br />
+نكتشف ان العلم موجود في نهاية التحليل لتنسيق الملف
 
 مبروك :)
 
